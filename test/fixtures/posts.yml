@@ -2,8 +2,8 @@
 
 one:
   text: MyString
-  user_id: 1
+  user: one
 
 two:
   text: MyString
-  user_id: 1
+  user: two
